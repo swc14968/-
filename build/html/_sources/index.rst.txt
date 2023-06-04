@@ -10,7 +10,14 @@ Welcome to Be a Barista's documentation!
    :maxdepth: 2
    :caption: 《独立咖啡师指南》
 
-   Be-Barista/index
+   intro/index
+   base/index
+   history/index
+   trade/index
+   plant/index
+   roast/index
+   brew/index
+   
 
 
 
