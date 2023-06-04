@@ -16,8 +16,6 @@ release = '0.0.1'
 
 extensions = []
 
-source_suffix = {}
-
 templates_path = ['_templates']
 exclude_patterns = []
 
