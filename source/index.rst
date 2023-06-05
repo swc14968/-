@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Be a Barista's documentation!
+《独立咖啡师指南》
 ========================================
 
 .. toctree::
@@ -17,7 +17,7 @@ Welcome to Be a Barista's documentation!
    plant/index
    roast/index
    brew/index
-   
+
 
 
 
