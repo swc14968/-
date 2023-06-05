@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-《独立咖啡师指南》
-========================================
+咖啡万事屋
+==========
 
 .. toctree::
    :maxdepth: 2
